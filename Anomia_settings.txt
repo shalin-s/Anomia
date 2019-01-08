@@ -1,0 +1,3 @@
+false //Match detection on (false by default)
+true //Colors on (true by default)
+8 //Number of symbols (8 by default)

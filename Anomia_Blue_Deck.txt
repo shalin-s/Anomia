@@ -1,0 +1,92 @@
+Dog Breed
+Radio Station
+Extinct Species
+Lake
+Nut
+Sea
+Cause of Death
+Ocean
+Bicycle Brand
+Bagel Flavor
+Hot Beverage
+Citrus Fruit
+Magician
+Color
+Martial Art
+Salad Dressing
+Mountain
+Reptile
+Clown
+Sculptor
+Famous Ghost
+Candy Bar
+Playwright
+Emotion
+Noun
+Astronaut
+Last Name
+Composer
+Author
+Super Hero
+Amphibian
+Palindrome
+Sitcom
+Restaurant
+Hair Product
+Dairy Product
+Acronym
+Punctuation Mark
+Card Game
+2-Letter Word
+News Website
+Herb/Spice
+Bridge
+Tea
+Fuel
+Fish
+Clothing
+Cowboy Accessory
+Cookie Brand
+Fairy Tale Character
+Traffic Sign
+Pop Song
+Insect
+Boat
+Movie Director
+Painter
+TV Show
+Cartoon Character
+Jazz Musician
+Address
+Mystery Novelist
+Pizza Topping
+Pet
+Vegetable
+Ice Cream Brand
+Flower
+Parasite
+Fruit
+Lunch Meat
+Musical Instrument
+Museum
+Detective
+Book
+Artist
+Fashion Model
+Baseball Team
+Shampoo Brand
+Animal Sound
+Blues Musician
+Politician
+Cheese
+Plant
+Mythological Creature
+Sci-Fi Movie
+Olympic Sport
+Fictional Robot
+Island
+Beach
+Aircraft
+Breakfast Cereal
+Video Game
+Rock Opera
